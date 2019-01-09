@@ -9,5 +9,5 @@ z=sc0*y+sc1         (2)
 这部分代码放在framework目录下  
 
 
-参考文献：
+参考文献：  
 [1] [An Automatic RTL Compiler for High-Throughput FPGA Implementation of Diverse Deep Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8056824/)  
